@@ -23,7 +23,7 @@ class SecondActivity : ComponentActivity() {
                 verticalArrangement = Arrangement.Center,
                 horizontalAlignment = Alignment.CenterHorizontally
             ){
-
+Text(text = "Welcome", fontSize = 30.sp)
 
             }
 
